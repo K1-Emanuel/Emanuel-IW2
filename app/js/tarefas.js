@@ -1,0 +1,1 @@
+let novatarefa = document.querySelector("#txttarefa").value;
